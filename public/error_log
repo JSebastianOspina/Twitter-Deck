@@ -1,0 +1,1 @@
+[28-Jun-2020 16:51:59 America/Mexico_City] PHP Fatal error:  Cannot use [] for reading in /home/gflfchrr/laravel/app/Http/Controllers/twitter/TwitterController.php on line 216

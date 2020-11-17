@@ -1,0 +1,10 @@
+{
+    "name": "My Server",
+    "host": "ftp.feed-deck.com",
+    "protocol": "ftp",
+    "port": 21,
+    "password": "jajaxd112233445566",
+    "username": "sebas@feed-deck.com",
+    "remotePath": "/laravel",
+    "uploadOnSave": true
+}
